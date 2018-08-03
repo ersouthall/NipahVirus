@@ -6,3 +6,5 @@ Tools:
 - Approximate Bayesian Computation (ABC)
 - Stochastic Model 
 - Disease emergence
+- osgeo, gdal
+- worldpop data
