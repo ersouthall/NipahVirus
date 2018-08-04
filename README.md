@@ -1,6 +1,5 @@
 # Epidemiological Model for Nipah Virus (NiV)
 
-Tools:
 - Stochastic Model 
 - Disease emergence
 - Gillespie Algorithm: SIR, SEIR, SEIHR and SEIR with external force of infection
