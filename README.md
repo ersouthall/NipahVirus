@@ -1,4 +1,4 @@
-# Epidemiological Model for Nipah Virus
+# Epidemiological Model for Nipah Virus (NiV)
 
 Tools:
 - Stochastic Model 
