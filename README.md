@@ -1,10 +1,11 @@
 # Epidemiological Model for Nipah Virus
 
 Tools:
-- Gillespie Algorithm
-- Adaptive Gillespie Algorithm (rate changing)
-- Approximate Bayesian Computation (ABC)
 - Stochastic Model 
 - Disease emergence
+- Gillespie Algorithm: SIR, SEIR, SEIHR and SEIR with external force of infection
+- Adaptive Gillespie Algorithm (for non constant rates)
+- Approximate Bayesian Computation (ABC)
+- Parameter fitting to published epidemiological case data - Faridpur 2004 and 2010 outbreak
 - osgeo, gdal
-- worldpop data
+- Data imputation from worldpop data http://www.worldpop.org.uk/ 
