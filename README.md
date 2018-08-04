@@ -2,6 +2,7 @@
 
 - Stochastic Model 
 - Disease emergence
+- Basic Reproduction Number
 - Gillespie Algorithm: SIR, SEIR, SEIHR and SEIR with external force of infection
 - Adaptive Gillespie Algorithm (for non constant rates)
 - Approximate Bayesian Computation (ABC)
