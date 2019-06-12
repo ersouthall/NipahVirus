@@ -14,11 +14,11 @@
 - Fourier Transforms 
 - Quasi-stationary state
 
-# Outbreak Data Collected
+# Outbreak Data in Bangladesh
 
 | Dates | Districts | Number of Cases | Fatality Rate (%) | Reference|
 | ------------ | -------- |-------| ------------ | -------- |
-| Apr - May 2001 | Meherpur | 13 | 69 | ... |
+| Apr - May 2001 | Meherpur | 13 | 69 | [Kulkarni](10.1007/s13337-013-0171-y) |
 |Jan - Mar 2003 | Naogaon | 12 | 67 | ...|
 |04/01/04 - 08/02/04 | Rajbari | 29 | 76 | ...|
 |19/02/04 - 16/04/04 | Faridpur | 36 | 75 | ...|
@@ -34,6 +34,6 @@
 |01/01/11 - 07/01/11 | Faridpur | 5 | 80 | ... |
 |20/01/12 - Feb 2012 | Joypurhat | 12 | 83 | ...|
 |23/02/13 - 15/05/13 | Jhenaidah, Kurigram, Kushtia, Magura, Mymensingh, Nilphamari, Rajshahi, Pabna,Natore, Naogaon, Gaibandha, Manikganji |  1,1,1,1, 2,3,1,2,2,3,1,5 | 100, 100, 100, 100, 100, 100, 100, 50, 50, 100, 100, 80  | ...|
-|Jan - Feb 2014 | Manikganj, Magura, Faridpur, Shaariatpur, Kushtia, Rajshahi, Nawabganj, Natore, Dinajpur, Madaripur, Naogaon | 2,5,5,1, 1,1,1,1, 1,3,1 |100, 40,80, 100, | 0,0,0,0, | 0, 67, 100 | ...|
+|Jan - Feb 2014 | Manikganj, Magura, Faridpur, Shaariatpur, Kushtia, Rajshahi, Nawabganj, Natore, Dinajpur, Madaripur, Naogaon | 2,5,5,1, 1,1,1,1, 1,3,1 |100, 40,80, 100, 0,0,0,0, 0, 67, 100 | ...|
 |14/01/14 - 01/02/14 | Rangpur | 4 | 50 | ... |
 |Jan - Feb 2015 | Nilphamari, Panchagarh, Faridpur, Magura, Naogaon |1, 1, 2, 1, 3 | 100, 0, 50, 100, 100|... |
