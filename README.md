@@ -37,3 +37,4 @@
 |Jan - Feb 2014 | Manikganj, Magura, Faridpur, Shaariatpur, Kushtia, Rajshahi, Nawabganj, Natore, Dinajpur, Madaripur, Naogaon | 2,5,5,1, 1,1,1,1, 1,3,1 |100, 40,80, 100, 0,0,0,0, 0, 67, 100 | [IEDCR Report 11/02/14](https://iedcr.gov.bd/index.php?option=com_content&view=article&id=106) |
 |14/01/14 - 01/02/14 | Rangpur | 4 | 50 | [M. S. Islam, 2016](https://wwwnc.cdc.gov/eid/article/22/4/15-1747_article) |
 |Jan - Feb 2015 | Nilphamari, Panchagarh, Faridpur, Magura, Naogaon |1, 1, 2, 1, 3 | 100, 0, 50, 100, 100| [IEDCR Report 04/02/15](https://www.iedcr.gov.bd/pdf/files/nipah/Nipah%20Infection%20in%202015_Website%20update%20Feb%204%202015_for%20website.pdf) |
+| 09/02/19 - 24/02/19 | Thakurgaon | 4 | 75 | [IEDCR Report 04/03/19](https://iedcr.gov.bd/pdf/files/nipah/Nipah%20cases%20deaths%202001-2019.pdf)|
