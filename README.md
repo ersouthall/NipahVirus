@@ -17,10 +17,10 @@
 # Outbreak Data Collected
 
 | Dates | Districts | Number of Cases | Fatality Rate (%) | Reference|
-| --- | --- |
+| ------------ | -------- |-------| ------------ | -------- |
 | Apr-May 2001 | Meherpur | 13 | 69 | ... |
 |Jan-Mar 2003 | Naogaon | 12 | 67 | ...|
-|04/01/04 - 08/02/04 | Rajbari | 29 | 76 | ...|
+|04/01/04 \- 08/02/04 | Rajbari | 29 | 76 | ...|
 |19/02/04 - 16/04/04 | Faridpur | 36 | 75 | ...|
 |02/01/05 - 16/01/05 | Tangail | 12 | 92 | ...|
 |21/01/07 - 08/02/07 | Thakurgaon | 7 | 43| ...|
